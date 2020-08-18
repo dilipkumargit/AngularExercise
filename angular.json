@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "NewApplication"
+    }
+  },
+  "defaultProject": "NewApplication",
+  "cli": {
+    "analytics": "9f255af2-c0a8-4861-bf1c-89c8c6f577c9"
+  }
 }
